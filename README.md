@@ -13,4 +13,4 @@ In this project, a vector database is created and populated with details (names,
 Thanks to Akshay sir, Abhishek sir, Roshan sir and Himanshu sir for the constant guidance and support.<br>
 Thanks to Cubastion Consulting Pvt. Ltd. for a productive and supportive environment that fosters learning.
 
-<img src = "ttps://github.com/adityapathak-cubastion/Milvus-Querying/blob/main/milvus-querying-demo.png">
+<img src = "https://github.com/adityapathak-cubastion/Milvus-Querying/blob/main/milvus-querying-demo.png">
